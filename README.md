@@ -5,6 +5,11 @@
     "@sanity/image-url": "^0.140.19",
     "react-router-dom": "^5.2.0",
 
+### to start the sanity studio 👇
+
+`cd into sanity fonder`
+`sanity start`
+
 ### guide I followed 👇👇
 
 https://www.sanity.io/guides/build-your-first-blog-using-react#powered-by-sanity-3431846ee1e1
