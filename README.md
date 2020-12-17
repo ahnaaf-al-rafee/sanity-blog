@@ -15,3 +15,5 @@
 https://www.sanity.io/guides/build-your-first-blog-using-react#powered-by-sanity-3431846ee1e1
 
 ### Live on -> https://sanity-blog.web.app/
+
+### Studio live on -> https://react-blog-101.sanity.studio/desk
